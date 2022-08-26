@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-2",
+  "version": "1.0.0",
+  "description": "bootstrap learing with sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "learning-bootstrap",
+    "learning-sass"
+  ],
+  "author": "Shiham-portfolio",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.54.5"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.1.2",
+    "bootstrap": "^5.2.0"
+  }
+}
